@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amc/static/css/main.5b768d2f.css",
+    "main.js": "/amc/static/js/main.acae7a40.js",
+    "index.html": "/amc/index.html",
+    "main.5b768d2f.css.map": "/amc/static/css/main.5b768d2f.css.map",
+    "main.acae7a40.js.map": "/amc/static/js/main.acae7a40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b768d2f.css",
+    "static/js/main.acae7a40.js"
+  ]
+}
